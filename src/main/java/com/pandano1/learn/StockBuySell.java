@@ -1,6 +1,6 @@
 //https://www.interviewcake.com/question/java/stock-price
 
-package sorting;
+package com.pandano1.learn;
 
 public class StockBuySell {
 

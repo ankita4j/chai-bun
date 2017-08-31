@@ -1,6 +1,6 @@
 //https://www.interviewcake.com/question/java/highest-product-of-3
 
-package sorting;
+package com.pandano1.learn;
 
 public class HighestProduct3 {
 

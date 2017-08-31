@@ -1,6 +1,9 @@
 //https://www.interviewcake.com/question/java/product-of-other-numbers
 
-package sorting;
+// Note: you can multiply all of them in O(n) and then just divide by the each element in another pass
+// Also check BigInteger class because the priduct might not be in int or long range.
+
+package com.pandano1.learn;
 
 public class Products {
 
